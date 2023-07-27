@@ -3,3 +3,4 @@ if __name__ == "__main__":
     b = 2
     c = 3
     array = (a, b, c)
+    d = array[0]
